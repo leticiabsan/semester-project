@@ -1,11 +1,11 @@
 # Semester-project
 Repository for Top/Intro Scientific Program(16362) project
 
-# _Filtering productivity data from the machinery_
+# _Filtering yield data_
 
-_*Name:*_ Letícia Santos
-_*Semester:*_ Spring 2020
-_*Project area:*_ Agronomy
+<br/>_*Name:*_ Letícia Santos</br>
+<br/>_*Semester:*_ Spring 2020</br>
+<br/>_*Project area:*_ Agronomy</br>
 
 ---
 
